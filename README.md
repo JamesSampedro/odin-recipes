@@ -1,4 +1,5 @@
 # odin-recipes
+Live preview: https://jamessampedro.github.io/odin-recipes/
 
 # Introduction
 This is a simple HTML website to review the basics of HTML and how to apply them
