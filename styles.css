@@ -1,0 +1,22 @@
+/* main page */
+.header-title {
+    background-color: #ffb3b3;
+    text-align: center;
+}
+
+.recipe-list {
+    background-color: #86ff86;
+    font-size: 18px;
+    font-weight: 800;
+}
+/* main page */
+
+/* recipe page */
+.recipe-img {
+    height: auto;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* recipe page */
