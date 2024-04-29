@@ -16,6 +16,8 @@
     text-align: center;
     font-size: 32px;
     font-weight: bold;
+    padding: 8px;
+    margin: 8px;
 }
 
 .recipe-list {
@@ -42,19 +44,25 @@
     background-color: #d3f3c7;
     font-size: 28px;
     font-weight: bold;
+    padding: 8px;
+    margin: 8px;
 }
 
 p,
 .ingredients,
 .directions {
     background-color: #9ee983;
+    margin: 8px;
 }
 
-.ingredients li {
-
+.ingredients,
+.directions {
+    padding: 0px 24px;
 }
 
+p,
+.ingredients li,
 .directions li {
-    
+    padding: 8px;
 }
 /* recipe page */
