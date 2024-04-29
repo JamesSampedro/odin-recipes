@@ -1,22 +1,60 @@
+/* Global Settings */
+* {
+    font-family:'Times New Roman', Times, sans-serif;
+}
+
+.container {
+    background-color: #8acc8a;
+    margin: 8px auto;
+    padding: 8px;
+}
+/* Global Settings */
+
 /* main page */
 .header-title {
     background-color: #ffb3b3;
     text-align: center;
+    font-size: 32px;
+    font-weight: bold;
 }
 
 .recipe-list {
     background-color: #86ff86;
+    font-weight: bold;
+    padding: 8px 32px;
+}
+
+.recipe-list li {
     font-size: 18px;
-    font-weight: 800;
 }
 /* main page */
 
 /* recipe page */
 .recipe-img {
     height: auto;
-    width: 600px;
+    width: 350px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.title {
+    background-color: #d3f3c7;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+p,
+.ingredients,
+.directions {
+    background-color: #9ee983;
+}
+
+.ingredients li {
+
+}
+
+.directions li {
+    
 }
 /* recipe page */
